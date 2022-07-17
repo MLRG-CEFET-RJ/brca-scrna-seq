@@ -14,7 +14,9 @@ pip install -r requirements.txt
 
 ## Important Files
 
-* `geo/sklearn.py` contains the pipelines built on top of [GSE75688](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE75688), a dataset with 549 cells of 11 breast cancer patients.
+* `geo/sklearn.ipynb` contains the pipelines built on top of [GSE75688](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE75688), a dataset with 549 cells of 11 breast cancer patients.
+* `geo/read_matrices.py` reads all matrices of [GSE161529](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE161529) and save it in a single gene expression matrix.
+* `geo/sparse-full.ipynb` will contain experiments will [GSE161529](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE161529).
 
 ## Next Steps
 
