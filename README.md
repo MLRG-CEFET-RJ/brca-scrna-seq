@@ -1,6 +1,6 @@
-# SCRNA-Seq Analysis of BRCA patients
+# SCRNA-Seq Analysis of Breast Cancer Patients
 
-This repository hosts the code for an ongoing research on scRNA-seq analysis of BRCA patients.
+This repository hosts the code for an ongoing research on scRNA-seq analysis of breast cancer patients.
 
 ## Setup
 
